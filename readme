@@ -1,0 +1,7 @@
+vue-remote-controller => original coding with socket.io
+vue-remote-controller-asynccomponent => coding with asynccomponent ( not check performance)
+vue-remote-controller-rxjs => original coding + using rxjs server
+
+localhost:8080(or 8081)/remote
+
+get server request ( not working this srver different wifi if you check this make server different request)
